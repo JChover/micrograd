@@ -1,2 +1,2 @@
 # micrograd
-Learning by building Andrej Kapathy's micrograd!
+Learning by building Andrej Karpathy's micrograd!
